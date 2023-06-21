@@ -3,3 +3,4 @@ class Student < ApplicationRecord
         "#{first_name} #{last_name}"
       end
 end
+
